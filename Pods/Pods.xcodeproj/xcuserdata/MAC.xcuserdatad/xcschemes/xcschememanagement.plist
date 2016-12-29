@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ASIHTTPRequest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JlDownloader.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JlDownloaderTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JlDownloaderUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Reachability.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6E9BEC2BB0875E9E76EFC100DBB5A0AC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>84B123C1186E6E6DEC6C7F37C4095CFE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9C623D1AF8229419BA603B3C66BE24B9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E5AC55DCD17D00B2DAEBC5EC89101EF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F0EA78F8F3362DEBC9840500226DA5E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
